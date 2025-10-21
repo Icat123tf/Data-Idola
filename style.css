@@ -69,6 +69,7 @@ body{
 
 .explanation5{
     color: white;
+    width: auto;
     background-color: transparent;
     border: 3px solid white;
     border-radius: 10px;
