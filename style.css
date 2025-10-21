@@ -33,3 +33,46 @@ body{
     color: white;
     margin-top: -10px;
 }
+.wadah {
+    display: flex;
+    padding: 20px;
+    justify-content: space-between;
+    max-width: 600px;
+    margin: 0 auto;
+
+}
+
+.explanation3{
+    color: white;
+    width: 145px;
+    height: 165px;
+    background-color: transparent;
+    border: 3px solid white;
+    border-radius: 10px;
+    padding: 5px 10px;
+    font-family: sans-serif;
+    margin: 50px
+    
+}
+
+.explanation4{
+    color: white;
+    width: 300px;
+    background-color: transparent;
+    border: 3px solid white;
+    border-radius: 10px;
+    padding: 5px 10px;
+    font-family:sans-serif;
+    margin: 10px;
+
+}
+
+.explanation5{
+    color: white;
+    width: 100%;
+    background-color: transparent;
+    border: 3px solid white;
+    border-radius: 10px;
+    padding: 5px 10px;
+    font-family: sans-serif;
+}
